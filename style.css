@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: #a7900f;
+    background-color: #1a3952;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 200px;
+  }
+  
+  h2 {
+    text-align: center; /* Центрирование заголовков статей */
+    margin-top: 40px;
+  }
+  
+  p {
+    margin-left: 20px; /* Отступ для текста статей */
+  }
